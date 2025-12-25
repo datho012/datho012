@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer
 -------------------
 
-* 🌍  I'm based in Ho Chi Minh City
+* 🌍  I'm based in Da Nang City
 * ✉️  You can contact me at [hotandat645@gmail.com](mailto:hotandat645@gmail.com)
-* 🧠  I'm learning Angular , Ionic
 * ⚡  Learning new things, coding habit
 
 ### Skills
