@@ -37,16 +37,16 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=datho012&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=datho012&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophy" />
+  <img src="https://streak-stats.demolab.com?user=datho012&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datho012&show_icons=true&count_private=true&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=0d1117&hide_border=true" alt="Dat Ho's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datho012&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datho012&langs_count=10&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datho012&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datho012&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---
@@ -55,15 +55,12 @@
 
 <p align="center">
   <a href="https://github.com/datho012/bot-thong-bao-discord">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=datho012&repo=bot-thong-bao-discord&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=0d1117&hide_border=true&locale=en" alt="bot-thong-bao-discord" />
+    <img src="https://img.shields.io/badge/bot--thong--bao--discord-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="bot-thong-bao-discord" />
   </a>
   <a href="https://github.com/datho012/API">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=datho012&repo=API&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=0d1117&hide_border=true&locale=en" alt="API" />
+    <img src="https://img.shields.io/badge/API-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="API" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/datho012/web-enviroment-management">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=datho012&repo=web-enviroment-management&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=0d1117&hide_border=true&locale=en" alt="web-enviroment-management" />
+    <img src="https://img.shields.io/badge/web--enviroment--management-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="web-enviroment-management" />
   </a>
 </p>
