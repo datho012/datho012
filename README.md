@@ -1,118 +1,95 @@
 <div align="center">
-  <!-- Self-hosted Dynamic Vector Banner Header (100% Uptime, Zero 3rd-party outage) -->
-  <img src="https://raw.githubusercontent.com/datho012/datho012/main/assets/header.svg" width="100%" alt="Dat Ho - Developer Banner" />
+  <h1>Ho Tan Dat (Dat Ho)</h1>
+  
+  <p>
+    <strong>Full-Stack Software Engineer</strong> • Da Nang City, Vietnam 🇻🇳
+  </p>
 
-  <!-- Dynamic Animated Typing Subtitle -->
-  <a href="https://github.com/datho012">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Hi+there!+I'm+Dat+Ho+%F0%9F%91%8B;Full-Stack+Engineer+from+Da+Nang+%F0%9F%87%BB%F0%9F%87%B3;Building+Robust+Backends+%26+Distributed+Systems;Crafting+Modern+Frontends+%26+Cloud+Services;Exploring+AI+Agents+%26+Automation;Turning+Ideas+into+Clean%2C+Scalable+Code+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+  <p>
+    <a href="https://github.com/datho012">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;duration=3000&amp;pause=1000&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;width=540&amp;lines=Full-Stack+Engineer+%7C+.NET+%E2%80%A2+NestJS+%E2%80%A2+Vue+%E2%80%A2+Angular;Building+scalable+backends+%26+distributed+systems;Automating+workflows+with+AI+agents+%26+Discord+bots;Pragmatic+developer+%E2%80%A2+Clean+architecture+advocate" alt="Typing Tagline" />
+    </a>
+  </p>
 
-  <p align="center">
+  <p>
     <a href="https://linkedin.com/in/hotandat" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&amp;logo=linkedin&amp;logoColor=c9d1d9&amp;labelColor=161b22" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:hotandat645@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&amp;logo=gmail&amp;logoColor=c9d1d9&amp;labelColor=161b22" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://facebook.com/chuotporo012" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
+      <img src="https://img.shields.io/badge/Facebook-0d1117?style=flat-square&amp;logo=facebook&amp;logoColor=c9d1d9&amp;labelColor=161b22" alt="Facebook" />
     </a>
+    &nbsp;
     <a href="https://github.com/datho012" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&amp;logo=github&amp;logoColor=c9d1d9&amp;labelColor=161b22" alt="GitHub" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🌟 About Me
+### 💼 About
 
-```yaml
-name: Ho Tan Dat (Dat Ho)
-role: Full-Stack Software Engineer
-location: Da Nang City, Vietnam 🇻🇳
-passion: Scalable Architecture, AI Automation, IoT Solutions
-philosophy: "Here's what I've built > Just talking about code"
-```
-
-- 🚀 **Full-Stack Developer** with solid hands-on experience designing and implementing end-to-end architectures—from reactive web applications to high-performance distributed backend microservices.
-- ⚡ **Core Strengths**: **.NET / C#**, **NestJS / Node.js**, **Vue.js / Angular**, **Python**, and **Docker**.
-- 🤖 **AI & Automation Enthusiast**: Actively building AI-assisted tools, anti-fraud guard assistants, and Discord bots to automate workflows and elevate user experiences.
-- 🌐 **IoT & Realtime Systems**: Developed integrated environmental monitoring systems spanning hardware sensors, mobile apps, and real-time web dashboards.
-- 📬 **Let's Connect**: Feel free to drop an email at **[hotandat645@gmail.com](mailto:hotandat645@gmail.com)** for tech talk or collaboration!
+- 🚀 **Full-Stack Software Engineer** focused on building resilient backend architectures, clean API services, and intuitive web interfaces.
+- ⚙️ **Core Tech**: **C# (.NET Core)**, **NestJS / Node.js**, **Vue.js / Angular**, **Python**, and **Docker**.
+- 🤖 **Interests & Practice**: System design, microservices, AI-assisted development & automation, and IoT telemetry platforms.
+- 🎯 **Engineering Approach**: Pragmatic problem solver—prioritizing readability, scalability, and clean modular structure over unnecessary complexity.
 
 ---
 
-### 💻 Tech Stack & Ecosystem
+### 🛠️ Tech Stack
 
 <div align="center">
-
-#### Backend & Core Engines
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,nestjs,express&amp;perline=6" alt="Backend Skills" />
-</p>
-
-#### Frontend & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,angular,tailwind,html,css&amp;perline=7" alt="Frontend Skills" />
-</p>
-
-#### Databases, DevOps & Cloud Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,githubactions,linux,nginx,git,postman&amp;perline=10" alt="Database and DevOps Skills" />
-</p>
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,nestjs,ts,js,vue,angular&amp;perline=9" alt="Backend and Frontend" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,nginx,git,postman&amp;perline=9" alt="Database and DevOps" />
+  </p>
 </div>
 
 ---
 
-### 🚀 Featured Projects — *"Here's what I've built"*
+### 📂 Featured Repositories
 
-| Project | Tech Stack | Highlights |
+| Repository | Stack | Description |
 | :--- | :--- | :--- |
-| 🤖 **[Bot Thông Báo Discord](https://github.com/datho012/bot-thong-bao-discord)** | `Node.js` `Discord API` `Webhook` | Bot hỗ trợ tự động hóa thông báo sự kiện, bài viết, stream trực tiếp đa kênh, quản lý tương tác cộng đồng. |
-| 🛡️ **[Guard Assistant](https://github.com/datho012/guard-assistant)** | `Python` `AI / ML` `Security` | Trợ lý thông minh phòng chống lừa đảo trực tuyến, nhận diện nội dung rủi ro và bảo vệ người dùng số. |
-| 🌿 **[IoT Environment Management](https://github.com/datho012/web-enviroment-management)** | `Vue.js` `IoT` `Real-time API` | Hệ thống giám sát môi trường thời gian thực, quản lý và phân tích số liệu cảm biến trên cả Web & Mobile. |
-| ⚡ **[Scalable Backend API Ecosystem](https://github.com/datho012/API)** | `.NET Core` `NestJS` `MySQL` `Docker` | Chuỗi API dịch vụ backend chuẩn RESTful với kiến trúc phân tầng, phân quyền bảo mật và tối ưu query. |
+| 🤖 [**bot-thong-bao-discord**](https://github.com/datho012/bot-thong-bao-discord) | `Node.js` `Discord API` | Bot tự động hóa thông báo event, bài viết, stream và quản trị cộng đồng Discord. |
+| 🛡️ [**guard-assistant**](https://github.com/datho012/guard-assistant) | `Python` `AI / ML` | Trợ lý hỗ trợ phát hiện rủi ro, phân tích nội dung đáng ngờ và phòng chống lừa đảo trực tuyến. |
+| 🌿 [**web-enviroment-management**](https://github.com/datho012/web-enviroment-management) | `Vue.js` `IoT` `REST API` | Hệ thống quan trắc môi trường thời gian thực, quản lý và phân tích telemetry cảm biến. |
+| ⚡ [**API**](https://github.com/datho012/API) | `.NET Core` `NestJS` `MySQL` | Hệ thống backend API chuẩn RESTful với kiến trúc phân tầng, phân quyền và tối ưu truy vấn. |
 
 ---
 
-### 🐍 Contribution Activity Arcade
+### 📈 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datho012/datho012/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datho012/datho012/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/datho012/datho012/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/datho012/datho012/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-### 📊 GitHub Analytics & Highlights
+### 📊 GitHub Metrics
 
 <div align="center">
-  <!-- GitHub Streak Card -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=datho012&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=8" width="100%" style="max-width: 495px;" alt="GitHub Streak" />
-  </p>
-
-  <!-- GitHub Profile Summary Cards -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datho012&amp;theme=tokyonight" width="100%" style="max-width: 700px;" alt="GitHub Profile Summary" />
+    <img src="https://streak-stats.demolab.com?user=datho012&amp;theme=github-dark&amp;hide_border=true" width="100%" style="max-width: 495px;" alt="GitHub Streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datho012&amp;theme=tokyonight" width="100%" style="max-width: 350px;" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datho012&amp;theme=tokyonight" width="100%" style="max-width: 350px;" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datho012&amp;theme=github_dark" width="100%" style="max-width: 700px;" alt="Profile Summary" />
   </p>
-</div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="100%" style="max-width: 600px;" alt="Programming Quote" />
-  
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/datho012/datho012/main/assets/footer.svg" width="100%" alt="Footer Wave" />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datho012&amp;theme=github_dark" width="100%" style="max-width: 350px;" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datho012&amp;theme=github_dark" width="100%" style="max-width: 350px;" alt="Most Commit Language" />
+  </p>
 </div>
